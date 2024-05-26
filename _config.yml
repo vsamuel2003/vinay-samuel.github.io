@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://i.postimg.cc/W39gw5b4/vinaynew.png"
+  avatar           : "https://i.postimg.cc/Ls2PdcJX/vinaynew.png"
   name             : "Vinay Samuel"
   pronouns         : # example: "she/her"  
   bio              : "Statistics and Machine Learning student at Carnegie Mellon Univeristy"
