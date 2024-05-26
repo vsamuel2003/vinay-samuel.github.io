@@ -2,7 +2,7 @@
 title: "ImplicitAVE: An Open-Source Dataset and Multimodal LLMs Benchmark for Implicit Attribute Value Extraction"
 collection: publications
 permalink: /publication/ImplicitAVE
-excerpt: 'In this work we introduce the first ever publicly available dataset for implicit attribute value extraction. In addition to releasing the curated dataset we also benchmark several SOTA Multimodal Language Models on ImplicitAVE. \[***Accepted to ACL 2024 Findings***\]'
+excerpt: 'In this work we introduce the first ever publicly available dataset for implicit attribute value extraction. In addition to releasing the curated dataset we also benchmark several SOTA Multimodal Large Language Models on ImplicitAVE. \[***Accepted to ACL 2024 Findings***\]'
 date: 2024-04-24
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2404.15592'
