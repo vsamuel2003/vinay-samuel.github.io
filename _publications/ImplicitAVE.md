@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ImplicitAVE
 excerpt: 'In this work we introduce the first ever publicly available dataset for implicit attribute value extraction. In addition to releasing the curated dataset we also benchmark several SOTA Multimodal Large Language Models on ImplicitAVE.'
 date: 2024-04-24
-venue: 'ACL'
+venue: 'ACL Findings'
 paperurl: 'https://arxiv.org/abs/2404.15592'
 ---
 
