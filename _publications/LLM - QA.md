@@ -3,7 +3,7 @@ title: "Can LLMs Augment Low-Resource Reading Comprehension Datasets? Opportunit
 collection: publications
 permalink: /publication/LLM-QA
 excerpt: 'In this work, we tackle the low resource issue in certain QA datasets by synthetically augmenting them using GPT-4 to improve downstream fine-tuned performance for LMs trained on the augmented dataset.'
-date: 2023-09-23
+date: 2024-07-18
 venue: 'ACL Student Research Workshop'
 paperurl: 'https://arxiv.org/abs/2309.12426'
 ---
