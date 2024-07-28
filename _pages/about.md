@@ -18,6 +18,6 @@ These diverse experiences have solidified my commitment to pushing the boundarie
 
 ## News
 
-- **July 28, 2024**: Excited to release PersonaGym! [arXiv](https://arxiv.org/abs/2309.12426), [code](https://github.com/vsamuel2003/PersonaGym), [website](https://personagym.com) .
+- **July 28, 2024**: Excited to release [PersonaGym](https://personagym.com)!
 - **July 8, 2024**: Our paper titled [Can LLMs Augment Low-Resource Reading Comprehension Datasets? Opportunities and Challenges](https://arxiv.org/abs/2309.12426) was accepted into ACL Student Research Workshop 2024.
 - **May 15, 2024**: Our paper titled [ImplicitAve](https://arxiv.org/abs/2404.15592) was accepted into ACL Findings 2024 
