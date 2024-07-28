@@ -18,12 +18,6 @@ These diverse experiences have solidified my commitment to pushing the boundarie
 
 ## News
 
-- **Dec 10, 2023**: Was invited to be an oral session chair in EMNLP 2023 at Singapore.
-- **Oct 9, 2023**: Three papers accepted at EMNLP! [Toxicity in ChatGPT](link), [Conditional STS](link), and [MUX-PLMs](link).
-- **Oct 1, 2023**: Our workshop titled [PERSONALIZE: Personalization of Generative AI Systems](link) will be co-organized with EACL 2024 in the beautiful and historic Malta.
-- **Sep 24, 2023**: Our work [Toxicity in ChatGPT](link) was featured on Wall Street Journal, along with a quote from my conversation with them.
-- **Apr 25, 2023**: Our work [SemSup-XC](link) is accepted at ICML 2023. SemSup-XC achieves state-of-the-art results on extreme classification.
-- **Apr 12, 2023**: Our work on AI safety which analyzes toxicity in ChatGPT was featured on media outlets like [CNBC](link), [VentureBeat](link), [TechCrunch](link), and [Gizmodo](link). A website summarizing our work can be found [here](link).
-- **Apr 12, 2023**: Our work on AI safety titled "Toxicity in ChatGPT: Analyzing Persona-assigned Language Models" is out. Find it [here](link). Work done with my wonderful collaborators at Princeton, AI2, and Georgia Tech.
-- **Feb 20, 2023**: Our pre-print titled "MUX-PLMs: Pre-training Language Models with Data Multiplexing" is now available! Find it [here](link).
-- **Feb 20, 2023**: Our pre-print titled "SemSup-XC: Semantic Supervision for Zero and Few-shot Extreme Classification" is now available! Find it [here](link).
+- **July 28, 2024**: Excited to release PersonaGym! [arXiv](https://arxiv.org/abs/2309.12426), [code](https://github.com/vsamuel2003/PersonaGym), [website](https://personagym.com) .
+- **July 8, 2024**: Our paper titled [Can LLMs Augment Low-Resource Reading Comprehension Datasets? Opportunities and Challenges](https://arxiv.org/abs/2309.12426) was accepted into ACL Student Research Workshop 2024.
+- **May 15, 2024**: Our paper titled [ImplicitAve](https://arxiv.org/abs/2404.15592) was accepted into ACL Findings 2024 
