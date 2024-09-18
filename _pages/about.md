@@ -18,6 +18,7 @@ These diverse experiences have solidified my commitment to pushing the boundarie
 
 ## News
 
+- **Sept 18, 2024**: Excited to release [Towards Data Contamination Detection for Modern Large Language Models: Limitations, Inconsistencies, and Oracle Challenges](https://arxiv.org/pdf/2409.09927v1)!
 - **July 28, 2024**: Excited to release [PersonaGym](https://personagym.com)!
 - **July 8, 2024**: Our paper titled [Can LLMs Augment Low-Resource Reading Comprehension Datasets? Opportunities and Challenges](https://arxiv.org/abs/2309.12426) was accepted into ACL Student Research Workshop 2024.
 - **May 15, 2024**: Our paper titled [ImplicitAVE: An Open-Source Dataset and Multimodal LLMs Benchmark for Implicit Attribute Value Extraction](https://arxiv.org/abs/2404.15592) was accepted into ACL Findings 2024 
