@@ -2,7 +2,7 @@
 title: "PersonaGym: Evaluating Persona Agents and LLMs"
 collection: publications
 permalink: /publication/PersonaGym
-excerpt: 'In this work, we released the first ever dynamic evaluation framework for persona agents in LLMs termed <br>PersonaGym</br>. Additionally we established the first autmatic human-sligned metric for quantifying the abilities of a given persona agent termed <b>PersonaScore</b>. '
+excerpt: 'In this work, we released the first ever dynamic evaluation framework for persona agents in LLMs termed <b>PersonaGym</b>. Additionally we established the first autmatic human-sligned metric for quantifying the abilities of a given persona agent termed <b>PersonaScore</b>. '
 date: 2024-07-29
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2407.18416'
