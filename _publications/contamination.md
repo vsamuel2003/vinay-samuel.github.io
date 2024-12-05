@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/contamination
 excerpt: 'In this work we benchmark several of the top data contamination approaches on the state-of-the-art LLMs in order to provide insight to the strengths and limitations of each approach.'
 date: 2024-09-18
-venue: 'arXiv'
+venue: 'COLING'
 paperurl: 'https://arxiv.org/pdf/2409.09927'
 ---
 
