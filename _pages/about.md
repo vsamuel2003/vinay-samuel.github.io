@@ -18,6 +18,8 @@ These diverse experiences have solidified my commitment to pushing the boundarie
 
 ## News
 
+- **Dec 20, 2024**: Excited to release [Collaborative Gym: A Framework for Enabling and Evaluating
+Human-Agent Collaboration](https://arxiv.org/pdf/2412.15701)!
 - **Nov 29, 2024**: Our paper titled [Towards Data Contamination Detection for Modern Large Language Models: Limitations, Inconsistencies, and Oracle Challenges](https://arxiv.org/pdf/2409.09927v1) was accepted into COLING 2025.
 - **Sept 18, 2024**: Excited to release [Towards Data Contamination Detection for Modern Large Language Models: Limitations, Inconsistencies, and Oracle Challenges](https://arxiv.org/pdf/2409.09927v1)!
 - **July 28, 2024**: Excited to release [PersonaGym](https://personagym.com)!
