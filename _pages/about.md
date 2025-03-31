@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a senior at Carnegie Mellon University, with a passion for Natural Language Processing (NLP) and Artificial Intelligence (AI). As I prepare to pursue my graduate studies in these fields, I have been fortunate to work with several distinguished advisors on cutting-edge projects.
+I am a senior at Carnegie Mellon University, with a passion for Natural Language Processing (NLP) and Artificial Intelligence (AI). In my undergraduate years I have been fortunate to work with several distinguished advisors on cutting-edge projects.
 
 Under the guidance of [Prof. Karthik Narasimhan](https://karthikncode.github.io) in the Princeton NLP Group, I led research on developing PersonaGym, the first evaluation framework for persona agents in Large Language Models (LLMs). This project has contributed significantly to our understanding of the abilty of LLMs to take on personas as they interact in various environments as agents.
 
