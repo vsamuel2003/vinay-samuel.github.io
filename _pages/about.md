@@ -6,18 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a senior at Carnegie Mellon University, with a passion for Natural Language Processing (NLP) and Artificial Intelligence (AI). In my undergraduate years I have been fortunate to work with several distinguished advisors on cutting-edge projects.
+I am an incoming first-year CS masters student at the University of Maryland, College Park. I received my BS in Statistics and Machine Learning at Carnegie Mellon University where I graduated with University Honors. My current research experiences lie in LLM agents however I hope to explore other domains throughout my masters to further hone in on my research interests. In my undergraduate years I have been fortunate to work with several distinguished advisors on cutting-edge projects.
 
 Under the guidance of [Prof. Karthik Narasimhan](https://karthikncode.github.io) in the Princeton NLP Group, I led research on developing PersonaGym, the first evaluation framework for persona agents in Large Language Models (LLMs). This project has contributed significantly to our understanding of the abilty of LLMs to take on personas as they interact in various environments as agents.
 
 I collaborated with [Prof. Cornelia Caragea](https://www.cs.uic.edu/~cornelia/) on ImplicitAVE was the first open-sourced dataset for implicit attribution value extraction. Our work was accepted to ACL Findings 2024, marking a significant advancement in the field of attribute value extraction.
 
-Currently, I'm working with [Prof. Daphne Ippolito](https://www.daphnei.com) on LLM output control, exploring ways to enhance the reliability and consistency of AI-generated content. I am concurrently working with [Yijia Zhou](https://cs.stanford.edu/~shaoyj/) and [Prof. Diyi Yang](https://cs.stanford.edu/~diyiy/) on a project aimed at Human-AI collaboration between users and Language Model agents on multiple tasks. Stay tuned for more details as we release our work! 
+I worked with [Prof. Daphne Ippolito](https://www.daphnei.com) on LLM output control, exploring ways to enhance the reliability and consistency of AI-generated content. I have also collaborated with  [Yijia Zhou](https://cs.stanford.edu/~shaoyj/) and [Prof. Diyi Yang](https://cs.stanford.edu/~diyiy/) on a project aimed at Human-AI collaboration between users and Language Model agents on multiple tasks. 
 
-These diverse experiences have solidified my commitment to pushing the boundaries of NLP and AI, and I'm excited to continue this journey in my graduate studies and beyond.
+I am always looking to collaborate on projects and can be reached at [vsamuel@umd.edu](vsamuel@umd.edu)
 
 ## News
 
+- **May 19, 2025**: Excited to release [CIE: Controlling Language Model Text Generations Using Continuous Signals](https://arxiv.org/pdf/2505.13448)!
 - **Dec 20, 2024**: Excited to release [Collaborative Gym: A Framework for Enabling and Evaluating
 Human-Agent Collaboration](https://arxiv.org/pdf/2412.15701)!
 - **Nov 29, 2024**: Our paper titled [Towards Data Contamination Detection for Modern Large Language Models: Limitations, Inconsistencies, and Oracle Challenges](https://arxiv.org/pdf/2409.09927v1) was accepted into COLING 2025.
