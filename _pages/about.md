@@ -14,6 +14,8 @@ I collaborated with [Prof. Cornelia Caragea](https://www.cs.uic.edu/~cornelia/) 
 
 I worked with [Prof. Daphne Ippolito](https://www.daphnei.com) on LLM output control, exploring ways to enhance the reliability and consistency of AI-generated content. I have also collaborated with  [Yijia Zhou](https://cs.stanford.edu/~shaoyj/) and [Prof. Diyi Yang](https://cs.stanford.edu/~diyiy/) on a project aimed at Human-AI collaboration between users and Language Model agents on multiple tasks. 
 
+Under the guidance of [Prof. Karthik Narasimhan's](https://karthikncode.github.io) at the Princeton NLP Group, I led research on PersonaGym, the first evaluation framework for persona agents in Large Language Models. With [Prof. Cornelia Caragea](https://www.cs.uic.edu/~cornelia/), I developed ImplicitAVE, the first open-sourced dataset for implicit attribution value extraction, which was accepted to ACL Findings 2024. I worked with [Prof. Daphne Ippolito](https://www.daphnei.com) on LLM output control to control for resonse length of instruction-tuned models. Additionally, I collaborated with [Yijia Zhou](https://cs.stanford.edu/~shaoyj/) and [Prof. Diyi Yang](https://cs.stanford.edu/~diyiy/) on a framework for evaluating Human-AI collaboration between users and Language Model agents across multiple tasks.
+
 I am always looking to collaborate on projects and can be reached at [vsamuel@umd.edu](vsamuel@umd.edu)
 
 ## News
