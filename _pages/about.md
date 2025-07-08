@@ -14,6 +14,7 @@ I am always looking to collaborate on projects and can be reached at [vsamuel@um
 
 ## News
 
+- **July 7, 2025**: Our paper titled [NoveltyBench: Evaluating Language Models for Humanlike Diversity](https://arxiv.org/pdf/2504.05228) was accepted into COLM 2025.
 - **May 19, 2025**: Excited to release [CIE: Controlling Language Model Text Generations Using Continuous Signals](https://arxiv.org/pdf/2505.13448)!
 - **Dec 20, 2024**: Excited to release [Collaborative Gym: A Framework for Enabling and Evaluating
 Human-Agent Collaboration](https://arxiv.org/pdf/2412.15701)!
