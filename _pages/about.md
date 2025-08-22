@@ -14,6 +14,7 @@ I am always looking to collaborate on projects and can be reached at [vsamuel@um
 
 ## News
 
+- **Aug 20, 2025**: Two EMNLP acceptances. Our paper titled [CIE: Controlling Language Model Text Generations Using Continuous Signals](https://arxiv.org/pdf/2505.13448) was accepted into EMNLP Main 2025 and [PersonaGym: Evaluating Persona Agents and LLMs](https://arxiv.org/pdf/2407.18416) was accepted into EMNLP Findings 2025.
 - **July 7, 2025**: Our paper titled [NoveltyBench: Evaluating Language Models for Humanlike Diversity](https://arxiv.org/pdf/2504.05228) was accepted into COLM 2025.
 - **May 19, 2025**: Excited to release [CIE: Controlling Language Model Text Generations Using Continuous Signals](https://arxiv.org/pdf/2505.13448)!
 - **Dec 20, 2024**: Excited to release [Collaborative Gym: A Framework for Enabling and Evaluating
